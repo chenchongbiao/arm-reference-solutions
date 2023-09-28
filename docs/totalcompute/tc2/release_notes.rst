@@ -252,7 +252,7 @@ Known issues or Limitations
 
 Support
 -------
-For support email:  support-arch@arm.com.
+For support email:  support@arm.com.
 
 
 --------------
